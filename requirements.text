@@ -1,0 +1,7 @@
+torch==1.13.1
+open_clip_torch
+gradio>=3.0
+datasets
+torchvision
+pillow
+numpy
